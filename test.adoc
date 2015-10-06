@@ -1,0 +1,7 @@
+:toc: macro
+
+== H2.1 ==
+bla
+
+== H2.2 ==
+bli
